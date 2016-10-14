@@ -1,6 +1,0 @@
-location /images/ {
-    valid_referers none blocked ${SERVER_NAME};
-    if ($invalid_referer) {
-        return   403;
-    }
-}
