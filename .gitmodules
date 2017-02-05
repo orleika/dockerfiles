@@ -1,3 +1,6 @@
 [submodule "web-static"]
 	path = web-static
 	url = https://github.com/orleika/web-static.git
+[submodule "docker-nginx"]
+	path = docker-nginx
+	url = https://github.com/orleika/docker-nginx.git
